@@ -8,4 +8,4 @@ Addressing data quality issues.
   - Inconsistent references
   - Incorrect information
   - Null references
-- Technologies used: Python
+- Tools and technologies used: Python, Jupyter Notebook, Excel
