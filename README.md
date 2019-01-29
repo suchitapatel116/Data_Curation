@@ -1,4 +1,4 @@
-# Data_Cleaning
+# Data_Curation
 Addressing data quality issues.
 
 - The goal is to find quality issues in real world data. The dirty data will be cleaned and integrated.
